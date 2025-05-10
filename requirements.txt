@@ -1,0 +1,9 @@
+transformers
+requests
+speechrecognition
+pyttsx3
+pyjokes
+wikipedia
+fuzzywuzzy
+python-Levenshtein
+spellchecker
