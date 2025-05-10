@@ -63,6 +63,13 @@ Uses Wikipedia and fuzzy matching.
 
 ---
 
+To visualize how the system works, here is the System Architecture Diagram:
+
+
+This diagram shows the interaction between user input, NLP & Speech processing layers, and the task-specific modules for sentiment analysis, voice assistant, and healthcare chatbot.
+
+![System Architecture](assets/system_architecture_diagram.png)
+
 ## 🚀 How to Run
 
 1. Install required packages:
@@ -76,13 +83,6 @@ python sentiment_analysis.py
 python voice_assistant.py
 python healthcare_chatbot.py
 
-To visualize how the system works, here is the System Architecture Diagram:
-
-
-This diagram shows the interaction between user input, NLP & Speech processing layers, and the task-specific modules for sentiment analysis, voice assistant, and healthcare chatbot.
-
-Path of the Diagram:
-assets/system_architecture_diagram.png
 
 🔑 API Keys
 NewsAPI: https://newsapi.org
