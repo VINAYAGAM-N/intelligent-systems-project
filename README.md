@@ -63,6 +63,7 @@ Uses Wikipedia and fuzzy matching.
 
 ---
 
+### System Architecture
 To visualize how the system works, here is the System Architecture Diagram:
 
 
