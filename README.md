@@ -79,17 +79,3 @@ OpenWeatherMap: https://openweathermap.org/api
 
 FDA Drug API: No API key needed
 
-###📂 Project Structure
-
-AI-Assistant-Project/
-├── sentiment_analysis.py
-├── voice_assistant.py
-├── healthcare_chatbot.py
-├── assets/
-│   ├── sentiment_output_positive.png
-│   ├── sentiment_output_negative.png
-│   ├── voice_assistant_demo.mp4
-│   ├── voice_assistant.png
-│   └── chatbot_output.png
-├── requirements.txt
-└── README.md
