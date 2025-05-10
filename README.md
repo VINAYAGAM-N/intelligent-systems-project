@@ -79,10 +79,8 @@ OpenWeatherMap: https://openweathermap.org/api
 
 FDA Drug API: No API key needed
 
-📂 Project Structure
-plaintext
-Copy
-Edit
+###📂 Project Structure
+
 AI-Assistant-Project/
 ├── sentiment_analysis.py
 ├── voice_assistant.py
