@@ -32,7 +32,7 @@ def recognize_speech():
             return None
 
 def get_weather_data():
-    api_key = "0b2ceed1f96536426eaf5010ad435541"  # Replace with your API key
+    api_key = "API_KEY"  # Replace with your API key
     city = "London"
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
     response = requests.get(url)
