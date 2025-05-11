@@ -13,7 +13,7 @@ def analyze_sentiment(text):
 # Function to fetch related news based on sentiment
 def fetch_related_news(sentiment):
     sentiment_query = "positive" if sentiment == "POSITIVE" else "negative"
-    url = f"https://newsapi.org/v2/everything?q={sentiment_query}&apiKey=df9f40a9b77f4a9ba7f28a617ba07629"
+    url = f"https://newsapi.org/v2/everything?q={sentiment_query}&apiKey=API_KEY"
     response = requests.get(url)
     news_data = response.json()
     articles = news_data.get('articles', [])
